@@ -1,4 +1,4 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/56b11aa122482ef10d74f229/1555352761792-MU2J85G6KCK2937FXP6O/Homepage+Banner+A.gif?format=2500w)
+![MasterHead](<img src="img/header.gif"/>)
 
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">future Junior DevOps Engineer from Ukraine</h3>
@@ -15,10 +15,10 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="img/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="img/k8s.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="img/terraform.svg" alt="terraform" width="40" height="40"/> </a>
-</p>
 <a href="https://ansible.com" rel="noreferrer"> <img src="img/ansible.png" alt="ansible" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="img/linux.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="img/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="img/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="img/mongodb.jpeg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="img/linux.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="img/bash.svg" alt="bash" width="40" height="40"/> </a>
 </p>
