@@ -1,8 +1,8 @@
-![MasterHead](<img src="img/header.gif"/>)
+<img align="center" src="img/header.gif"/>
 
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">future Junior DevOps Engineer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="img/devops.gif">
+<img align="right" src="img/devops.gif" alt="Coding" width="400">
 <ul>
 	<li>🔭 I'm eagerly searching for a job</li>
 	<li>📄 I’m currently learning Amazon Web Services and preparing to Solutions Architect Associate exam</li>
