@@ -4,9 +4,11 @@
 <h3 align="center">future Junior DevOps Engineer from Ukraine</h3>
 <img align="right" src="img/devops.gif" alt="Coding" width="400">
 <ul>
-	<li>🔭 I'm eagerly searching for a job</li>
-	<li>📄 I’m currently learning Amazon Web Services and preparing to Solutions Architect Associate exam</li>
-
+	<li>🔭 I'm searching for a job</li>
+	<li>📄 I’m currently learning Amazon Web Services and preparing for the Solutions Architect Associate exam</li>
+<ul>
+<h3 align="left">My current certificats include:</h3>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noreferrer"> <img src="img/AWS-Certified-Cloud-Practitioner.png" alt="CloudPractitoner" width="128" height="128"/> </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="img/aws.png" alt="aws" width="40" height="40"/> </a>
