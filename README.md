@@ -1,7 +1,7 @@
 <img align="center" src="img/header.gif"/>
 
-<h1 align="center">Hi 👋, I'm Sergey</h1>
-<h3 align="center">DevOps Engineer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Sergii</h1>
+<h3 align="center">DevOps Engineer</h3>
 <img align="right" src="img/devops.gif" alt="Coding" width="400">
 <ul>
 	<li>🔭 I'm looking for the opportunity to constantly develop</li>
@@ -9,8 +9,10 @@
 	<li>
 <ul>
 <h3 align="left">My current certificates include:</h3>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noreferrer"> <img src="img/AWS-Certified-Cloud-Practitioner.png" alt="CloudPractitoner" width="128" height="128"/> </a>
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer"> <img src="img/AWS-Certified-Solutions-Architect-Associate.png" alt="SolutionsArchitectAssociate" width="128" height="128"/> </a>
+<a href="https://www.credly.com/badges/dfda16c7-e259-4fd9-ba8b-f82311aeb0e9/public_url" target="_blank" rel="noreferrer"> <img src="img/AWS-Certified-Cloud-Practitioner.png" alt="CloudPractitoner" width="128" height="128"/> </a>
+<a href="https://www.credly.com/badges/2cc2dbdd-08f7-45a3-a408-f12b15cb7dac/public_url" target="_blank" rel="noreferrer"> <img src="img/AWS-Certified-Solutions-Architect-Associate.png" alt="SolutionsArchitectAssociate" width="128" height="128"/> </a>
+<a href="https://www.credly.com/badges/9a220297-39e4-4e96-8dc0-5a65723f5220/public_url" target="_blank" rel="noreferrer"> <img src="img/aws-certified-sysops-administrator-associate.png" alt="SysOpsAdministratorAssociate" width="128" height="128"/> </a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="img/aws.png" alt="AWS" width="40" height="40"/> </a>
